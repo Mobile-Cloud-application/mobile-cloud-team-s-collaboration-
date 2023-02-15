@@ -1,2 +1,3 @@
-// this is commit done by Natnael Habtemariam.
-console.log("This is sample commit from Natnael Habtemariam")
+// This is a commit by Mikiyas Hussen
+
+console.log('Hello World')
